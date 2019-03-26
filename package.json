@@ -1,0 +1,28 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "Test file package.json for learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mat955/node-modulesProject.git"
+  },
+  "keywords": [
+    "learning",
+    "npm",
+    "node"
+  ],
+  "author": "Mat955",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mat955/node-modulesProject/issues"
+  },
+  "homepage": "https://github.com/Mat955/node-modulesProject#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
